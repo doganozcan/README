@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@dogann_ozcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dogann_ozcan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/do%c4%9fan-%c3%b6zcan-4119b51ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/do%C4%9Fan-%C3%B6zcan-4119b51ba/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/doganozcan34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/do%C4%9Fan-%C3%B6zcan-4119b51ba/" height="30" width="40" /></a>
 <a href="https://kaggle.com/doganozcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="doganozcan" height="30" width="40" /></a>
 <a href="https://instagram.com/dogann.ozcann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dogann.ozcann" height="30" width="40" /></a>
 </p>
