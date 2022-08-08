@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Autonomous Vehicle**
 
-- 🌱 I’m currently learning **Yolo Algorithm**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 📫 How to reach me **ozcandogan492@gmail.com**
 
