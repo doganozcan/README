@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Doğan</h1>
 <h3 align="center">Deep Learning And Artificial Intelligence</h3>
 
-- 🔭 I’m currently working on **Autonomous Vehicle**
+- 🔭 I’m currently working on **Large Language Models**
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **Generative AI**
 
 - 📫 How to reach me **ozcandogan492@gmail.com**
 
